@@ -20,11 +20,18 @@ COPYRIGHT AND LICENSE for rXg Software
 The rXg utilizes a collection of freely available open-source software that are made available via the
 FreeBSD ports repository.  The list of included packages is maintained in the file [open-source-licenses](open-source-licenses)
 
+The list of Node.js packages used is maintained in the file [Node-Packages](Node-Packages)
+
+The list of Ruby Gems (made available via http://rubygems.org) is maintained in the file [Rubygems](Rubygems)
+
 # Patches to Open-Source Software
 Some pieces of software have patches applied in order to work around bugs or improve the software.
 Where possible, these patches are always submitted upstream to contribute back to the source project.
 Where patches are not accepted or desired by the upstream repository, the patches are applied when the
 packages are built from source.  These modifications are provided in the [patches](patches) directory.
+
+Note that the rXg codebase is entirely interpreted, and is not statically or dynamically _linked_
+against any other Open-Source software.
 
 Other packages in the list of [open-source-licenses](open-source-licenses) which do not have a corresponding
 patch directory are redistributed without modification by RG Nets.
