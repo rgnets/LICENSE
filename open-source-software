@@ -1,2343 +1,2947 @@
+--
 Name           : ImageMagick7-nox11
+Origin         : graphics/ImageMagick7-nox11
 Licenses       : APACHE20
 WWW            : https://imagemagick.org/
 --
 Name           : Imath
+Origin         : math/Imath
 Licenses       : BSD3CLAUSE
 WWW            : https://github.com/AcademySoftwareFoundation/Imath/
 --
 Name           : Judy
+Origin         : devel/judy
 Licenses       : LGPL21
 WWW            : http://judy.sourceforge.net/
 --
 Name           : abseil
+Origin         : devel/abseil
 Licenses       : APACHE20
 WWW            : https://abseil.io/
 --
 Name           : adwaita-icon-theme
+Origin         : x11-themes/adwaita-icon-theme
 Licenses       : LGPL3 or CC-BY-SA-3.0
 WWW            : UNKNOWN
 --
 Name           : alsa-lib
+Origin         : audio/alsa-lib
 Licenses       : LGPL21+
 WWW            : https://www.alsa-project.org/
 --
 Name           : aom
+Origin         : multimedia/aom
 Licenses       : BSD2CLAUSE
 WWW            : https://aomedia.org/
 --
 Name           : apr
+Origin         : devel/apr1
 Licenses       : APACHE20
 WWW            : https://apr.apache.org/
 --
 Name           : arping
+Origin         : net/arping
 Licenses       : GPLv2
 WWW            : https://www.habets.pp.se/synscan/programs.php?prog=arping
 --
 Name           : at-spi2-core
+Origin         : accessibility/at-spi2-core
 Licenses       : LGPL21
 WWW            : https://gitlab.gnome.org/GNOME/at-spi2-core
 --
 Name           : autoconf
+Origin         : devel/autoconf
 Licenses       : GPLv3+ and GPLv2+ and GFDL and EXCEPTION
 WWW            : https://www.gnu.org/software/autoconf/
 --
 Name           : autoconf-switch
+Origin         : devel/autoconf-switch
 Licenses       : BSD2CLAUSE
 WWW            : UNKNOWN
 --
 Name           : autogen
+Origin         : devel/autogen
 Licenses       : GPLv3
 WWW            : https://www.gnu.org/software/autogen/
 --
 Name           : automake
+Origin         : devel/automake
 Licenses       : GPLv2+ and GFDL
 WWW            : https://www.gnu.org/software/automake/
 --
 Name           : avahi-app
+Origin         : net/avahi-app
 Licenses       : LGPL21+
 WWW            : https://www.avahi.org/
 --
 Name           : barnyard2
+Origin         : security/barnyard2
 Licenses       : GPLv2
 WWW            : https://github.com/firnsy/barnyard2
 --
 Name           : bash
+Origin         : shells/bash
 Licenses       : GPLv3+
 WWW            : https://www.gnu.org/software/bash/
 --
 Name           : benchmark
+Origin         : devel/benchmark
 Licenses       : APACHE20
 WWW            : https://github.com/google/benchmark
 --
 Name           : bhyve-firmware
+Origin         : sysutils/bhyve-firmware
 Licenses       : NA
 WWW            : https://wiki.freebsd.org/bhyve/UEFI
 --
 Name           : bind-tools
+Origin         : dns/bind-tools
 Licenses       : MPL20
 WWW            : https://www.isc.org/bind/
 --
 Name           : bind916
+Origin         : dns/bind916
 Licenses       : MPL20
 WWW            : https://www.isc.org/bind/
 --
 Name           : binutils
+Origin         : devel/binutils
 Licenses       : LGPL3 and GPLv3
 WWW            : https://www.gnu.org/software/binutils/
 --
 Name           : boehm-gc
+Origin         : devel/boehm-gc
 Licenses       : BDWGC
 WWW            : https://www.hboehm.info/gc/
 --
 Name           : boehm-gc-threaded
+Origin         : devel/boehm-gc-threaded
 Licenses       : BDWGC
 WWW            : https://www.hboehm.info/gc/
 --
 Name           : bonnie++
+Origin         : benchmarks/bonnie++
 Licenses       : GPLv2
 WWW            : https://www.coker.com.au/bonnie++/
 --
 Name           : boost-libs
+Origin         : devel/boost-libs
 Licenses       : BSL
 WWW            : https://www.boost.org/
 --
 Name           : brotli
+Origin         : archivers/brotli
 Licenses       : MIT
 WWW            : https://github.com/google/brotli
 --
 Name           : bwm-ng
+Origin         : net-mgmt/bwm-ng
 Licenses       : GPLv2+
 WWW            : https://www.gropp.org/?id=projects&sub=bwm-ng
 --
 Name           : c-ares
+Origin         : dns/c-ares
 Licenses       : MIT
 WWW            : https://c-ares.haxx.se/
 --
 Name           : ca_root_nss
+Origin         : security/ca_root_nss
 Licenses       : MPL20
 WWW            : UNKNOWN
 --
 Name           : cairo
+Origin         : graphics/cairo
 Licenses       : MPL11 or LGPL21
 WWW            : https://www.cairographics.org/
 --
 Name           : calamaris
+Origin         : www/calamaris
 Licenses       : GPLv2
 WWW            : https://Cord.de/tools/squid/calamaris/
 --
 Name           : capstone4
+Origin         : devel/capstone4
 Licenses       : BSD3CLAUSE
 WWW            : http://capstone-engine.org/
 --
 Name           : cdrkit-genisoimage
+Origin         : sysutils/genisoimage
 Licenses       : GPLv2+
 WWW            : http://www.cdrkit.org/
 --
 Name           : cdrtools
+Origin         : sysutils/cdrtools
 Licenses       : GPLv2 and CDDL
 WWW            : http://cdrtools.sourceforge.net/private/cdrecord.html
 --
 Name           : check
+Origin         : devel/check
 Licenses       : LGPL21
 WWW            : https://libcheck.github.io/check/
 --
 Name           : choparp
+Origin         : net-mgmt/choparp
 Licenses       : BSD3CLAUSE
 WWW            : https://github.com/quinot/choparp
 --
 Name           : cmake
+Origin         : devel/cmake
 Licenses       : NA
 WWW            : https://www.cmake.org/
 --
 Name           : cmake-core
+Origin         : devel/cmake-core
 Licenses       : BSD3CLAUSE
 WWW            : https://www.cmake.org/
 --
 Name           : cmake-man
+Origin         : devel/cmake-man
 Licenses       : BSD3CLAUSE
 WWW            : https://www.cmake.org/
 --
 Name           : colord
+Origin         : graphics/colord
 Licenses       : GPLv2
 WWW            : https://www.freedesktop.org/software/colord
 --
 Name           : coreos-etcd34
+Origin         : devel/etcd34
 Licenses       : APACHE20
 WWW            : https://github.com/coreos/etcd
 --
 Name           : curl
+Origin         : ftp/curl
 Licenses       : MIT
 WWW            : https://curl.se/
 --
 Name           : cyrus-sasl
+Origin         : security/cyrus-sasl2
 Licenses       : BSD4CLAUSE
 WWW            : https://www.cyrusimap.org/sasl/
 --
 Name           : cyrus-sasl-saslauthd
+Origin         : security/cyrus-sasl2-saslauthd
 Licenses       : BSD4CLAUSE
 WWW            : https://www.cyrusimap.org/sasl/
 --
 Name           : daq
+Origin         : net/daq
 Licenses       : GPLv2
 WWW            : https://www.snort.org/
 --
 Name           : dav1d
+Origin         : multimedia/dav1d
 Licenses       : BSD2CLAUSE
 WWW            : https://code.videolan.org/videolan/dav1d
 --
 Name           : dbus
+Origin         : devel/dbus
 Licenses       : GPLv2
 WWW            : https://www.freedesktop.org/Software/dbus
 --
 Name           : dbus-glib
+Origin         : devel/dbus-glib
 Licenses       : GPLv2+
 WWW            : https://www.freedesktop.org/wiki/Software/DBusBindings/
 --
 Name           : ddclient
+Origin         : dns/ddclient
 Licenses       : GPLv2+
 WWW            : https://github.com/ddclient/ddclient
 --
 Name           : dejavu
+Origin         : x11-fonts/dejavu
 Licenses       : BITSTREAM and AREV and AMS
 WWW            : https://dejavu-fonts.github.io/
 --
 Name           : desktop-file-utils
+Origin         : devel/desktop-file-utils
 Licenses       : GPLv2+
 WWW            : https://www.freedesktop.org/wiki/Software/desktop-file-utils/
 --
 Name           : devcpu-data
+Origin         : sysutils/devcpu-data
 Licenses       : BSD2CLAUSE
 WWW            : UNKNOWN
 --
 Name           : devcpu-data-amd
+Origin         : sysutils/devcpu-data-amd
 Licenses       : EULA
 WWW            : UNKNOWN
 --
 Name           : devcpu-data-intel
+Origin         : sysutils/devcpu-data-intel
 Licenses       : EULA
 WWW            : https://github.com/intel/Intel-Linux-Processor-Microcode-Data-Files
 --
 Name           : dhcp6
+Origin         : net/dhcp6
 Licenses       : BSD3CLAUSE
 WWW            : http://wide-dhcpv6.sourceforge.net/
 --
 Name           : dmidecode
+Origin         : sysutils/dmidecode
 Licenses       : GPLv2
 WWW            : https://www.nongnu.org/dmidecode/
 --
 Name           : dpkg
+Origin         : archivers/dpkg
 Licenses       : GPLv2+
 WWW            : https://packages.debian.org/dpkg
 --
 Name           : dual-dhclient
+Origin         : net/dual-dhclient
 Licenses       : PD
 WWW            : UNKNOWN
 --
 Name           : duktape-lib
+Origin         : lang/duktape-lib
 Licenses       : MIT
 WWW            : https://duktape.org/
 --
 Name           : duo
+Origin         : security/duo
 Licenses       : GPLv2
 WWW            : https://duosecurity.com
 --
 Name           : e2fsprogs-libuuid
+Origin         : misc/e2fsprogs-libuuid
 Licenses       : BSD3CLAUSE
 WWW            : http://e2fsprogs.sourceforge.net/
 --
 Name           : easy-rsa
+Origin         : security/easy-rsa
 Licenses       : GPLv2
 WWW            : https://github.com/OpenVPN/easy-rsa
 --
 Name           : edk2-bhyve
+Origin         : sysutils/edk2
 Licenses       : BSD3CLAUSE
 WWW            : https://github.com/tianocore/edk2/ReadMe.rst
 --
 Name           : encodings
+Origin         : x11-fonts/encodings
 Licenses       : PD
 WWW            : https://www.x.org/
 --
 Name           : expat
+Origin         : textproc/expat2
 Licenses       : MIT
 WWW            : https://github.com/libexpat/libexpat
 --
 Name           : expect
+Origin         : lang/expect
 Licenses       : PD
 WWW            : http://expect.sourceforge.net
 --
 Name           : fftw3
+Origin         : math/fftw3
 Licenses       : GPLv2+
 WWW            : https://www.fftw.org/
 --
 Name           : figlet
+Origin         : misc/figlet
 Licenses       : BSD3CLAUSE
 WWW            : http://www.figlet.org/
 --
 Name           : firefox
+Origin         : www/firefox
 Licenses       : 
 WWW            : https://www.mozilla.com/firefox
 --
 Name           : flac
+Origin         : audio/flac
 Licenses       : LGPL21 and GPLv2 and GFDL and BSD3CLAUSE
 WWW            : https://www.xiph.org/flac/
 --
 Name           : flex
+Origin         : textproc/flex
 Licenses       : BSD3CLAUSE
 WWW            : https://github.com/westes/flex
 --
 Name           : font-bh-ttf
+Origin         : x11-fonts/font-bh-ttf
 Licenses       : 
 WWW            : https://www.x.org/
 --
 Name           : font-misc-ethiopic
+Origin         : x11-fonts/font-misc-ethiopic
 Licenses       : MIT
 WWW            : https://www.x.org/
 --
 Name           : font-misc-meltho
+Origin         : x11-fonts/font-misc-meltho
 Licenses       : 
 WWW            : https://www.x.org/
 --
 Name           : fontconfig
+Origin         : x11-fonts/fontconfig
 Licenses       : MIT
 WWW            : https://www.freedesktop.org/wiki/Software/fontconfig/
 --
 Name           : freebsd-release-manifests
+Origin         : misc/freebsd-release-manifests
 Licenses       : BSD2CLAUSE
 WWW            : https://www.FreeBSD.org
 --
 Name           : freeradius3
+Origin         : net/freeradius3
 Licenses       : GPLv2
 WWW            : https://www.freeradius.org/
 --
 Name           : freetds
+Origin         : databases/freetds
 Licenses       : GPLv2
 WWW            : http://www.freetds.org/
 --
 Name           : freetype2
+Origin         : print/freetype2
 Licenses       : GPLv2+ or FTL
 WWW            : https://www.freetype.org/
 --
 Name           : fribidi
+Origin         : converters/fribidi
 Licenses       : LGPL21
 WWW            : https://fribidi.org/
 --
 Name           : fstrm
+Origin         : devel/fstrm
 Licenses       : APACHE20
 WWW            : https://github.com/farsightsec/fstrm
 --
 Name           : fusefs-libs
+Origin         : sysutils/fusefs-libs
 Licenses       : LGPL21
 WWW            : https://github.com/libfuse/libfuse
 --
 Name           : fusefs-ntfs
+Origin         : sysutils/fusefs-ntfs
 Licenses       : GPLv2+
 WWW            : https://github.com/tuxera/ntfs-3g
 --
 Name           : gamin
+Origin         : devel/gamin
 Licenses       : 
 WWW            : http://people.gnome.org/~veillard/gamin/index.html
 --
 Name           : gcc12
+Origin         : lang/gcc12
 Licenses       : GPLv3RLE and GPLv3
 WWW            : https://gcc.gnu.org
 --
 Name           : gdb
+Origin         : devel/gdb
 Licenses       : GPLv3
 WWW            : https://www.gnu.org/software/gdb/
 --
 Name           : gdbm
+Origin         : databases/gdbm
 Licenses       : GPLv3+
 WWW            : https://www.gnu.org.ua/software/gdbm/
 --
 Name           : gdk-pixbuf2
+Origin         : graphics/gdk-pixbuf2
 Licenses       : LGPL20+
 WWW            : https://developer.gnome.org/gdk-pixbuf/
 --
 Name           : geckodriver
+Origin         : www/geckodriver
 Licenses       : MPL20
 WWW            : https://github.com/mozilla/geckodriver
 --
 Name           : getopt
+Origin         : misc/getopt
 Licenses       : GPLv3 or GPLv2
-WWW            : https://software.frodo.looijaard.name/getopt/
+WWW            : https://software.frodo.looijaard.--
+Name/getopt/
 --
 Name           : gettext
+Origin         : devel/gettext
 Licenses       : NA
 WWW            : https://www.gnu.org/software/gettext/
 --
 Name           : gettext-runtime
+Origin         : devel/gettext-runtime
 Licenses       : LGPL21+ and GPLv3+
 WWW            : https://www.gnu.org/software/gettext/
 --
 Name           : gettext-tools
+Origin         : devel/gettext-tools
 Licenses       : GPLv3+
 WWW            : https://www.gnu.org/software/gettext/
 --
 Name           : ghostscript9-agpl-base
+Origin         : print/ghostscript9-agpl-base
 Licenses       : AGPLv3
 WWW            : https://ghostscript.com/
 --
 Name           : giflib
+Origin         : graphics/giflib
 Licenses       : MIT
 WWW            : https://sourceforge.net/projects/giflib/
 --
 Name           : git
+Origin         : devel/git
 Licenses       : GPLv2
 WWW            : https://git-scm.com/
 --
 Name           : glib
+Origin         : devel/glib20
 Licenses       : LGPL20
 WWW            : https://www.gtk.org/
 --
 Name           : gmake
+Origin         : devel/gmake
 Licenses       : GPLv3
 WWW            : https://www.gnu.org/software/make/
 --
 Name           : gmp
+Origin         : math/gmp
 Licenses       : LGPL3
 WWW            : https://gmplib.org/
 --
 Name           : gnome_subr
+Origin         : sysutils/gnome_subr
 Licenses       : BSD2CLAUSE
 WWW            : https://www.FreeBSD.org/gnome/
 --
 Name           : gnupg
+Origin         : security/gnupg
 Licenses       : LGPL3 and GPLv3
 WWW            : https://www.gnupg.org/
 --
 Name           : gnutls
+Origin         : security/gnutls
 Licenses       : LGPL21 and GPLv3
 WWW            : https://gnutls.org/
 --
 Name           : goaccess
+Origin         : sysutils/goaccess
 Licenses       : MIT
 WWW            : https://goaccess.io
 --
 Name           : graphite2
+Origin         : graphics/graphite2
 Licenses       : MPL20 or LGPL21 or GPLv2
 WWW            : https://graphite.sil.org
 --
 Name           : graphviz
+Origin         : graphics/graphviz
 Licenses       : EPL
 WWW            : https://www.graphviz.org/
 --
 Name           : groff
+Origin         : textproc/groff
 Licenses       : GPLv3
 WWW            : https://www.gnu.org/software/groff/
 --
 Name           : grpc
+Origin         : devel/grpc
 Licenses       : BSD3CLAUSE
 WWW            : https://grpc.io/
 --
 Name           : grub2-bhyve
+Origin         : sysutils/grub2-bhyve
 Licenses       : GPLv3
 WWW            : https://github.com/grehan-freebsd/grub2-bhyve
 --
 Name           : gsfonts
+Origin         : print/gsfonts
 Licenses       : GPLv2
 WWW            : https://www.cs.wisc.edu/~ghost/doc/gnu/index.htm
 --
 Name           : gtar
+Origin         : archivers/gtar
 Licenses       : GPLv3+
 WWW            : https://www.gnu.org/software/tar/
 --
 Name           : gtk-update-icon-cache
+Origin         : graphics/gtk-update-icon-cache
 Licenses       : LGPL20
 WWW            : https://www.gtk.org/
 --
 Name           : gtk3
+Origin         : x11-toolkits/gtk30
 Licenses       : LGPL20
 WWW            : https://www.gtk.org/
 --
 Name           : guile2
+Origin         : lang/guile2
 Licenses       : LGPL3 and GPLv3
 WWW            : https://www.gnu.org/software/guile/
 --
 Name           : harfbuzz
+Origin         : print/harfbuzz
 Licenses       : MIT
 WWW            : https://harfbuzz.github.io/
 --
 Name           : hicolor-icon-theme
+Origin         : misc/hicolor-icon-theme
 Licenses       : GPLv2
 WWW            : https://www.freedesktop.org/Standards/icon-theme-spec
 --
 Name           : highway
+Origin         : devel/highway
 Licenses       : APACHE20
 WWW            : https://github.com/google/highway
 --
 Name           : htop
+Origin         : sysutils/htop
 Licenses       : GPLv2
 WWW            : https://htop.dev/
 --
 Name           : hwdata
+Origin         : misc/hwdata
 Licenses       : MIT or GPLv2+
 WWW            : https://github.com/vcrhonek/hwdata
 --
 Name           : icu
+Origin         : devel/icu
 Licenses       : ICU
 WWW            : https://icu.unicode.org/
 --
 Name           : indexinfo
+Origin         : print/indexinfo
 Licenses       : BSD2CLAUSE
 WWW            : https://github.com/bapt/indexinfo
 --
 Name           : intel-ipsec-mb
+Origin         : security/intel-ipsec-mb
 Licenses       : BSD3CLAUSE
 WWW            : https://github.com/intel/intel-ipsec-mb
 --
 Name           : intltool
+Origin         : textproc/intltool
 Licenses       : GPLv2
 WWW            : https://www.gnome.org/
 --
 Name           : iperf
+Origin         : benchmarks/iperf
 Licenses       : BSD2CLAUSE
 WWW            : https://sourceforge.net/projects/iperf2/
 --
 Name           : iperf3
+Origin         : benchmarks/iperf3
 Licenses       : MIT and BSD3CLAUSE
 WWW            : https://software.es.net/iperf/
 --
 Name           : ipmitool
+Origin         : sysutils/ipmitool
 Licenses       : BSD3CLAUSE
 WWW            : https://sourceforge.net/projects/ipmitool/
 --
 Name           : ipsec-tools
+Origin         : security/ipsec-tools
 Licenses       : BSD3CLAUSE
 WWW            : http://ipsec-tools.sourceforge.net/
 --
 Name           : isc-dhcp44-client
+Origin         : net/isc-dhcp44-client
 Licenses       : MPL20
 WWW            : https://www.isc.org/dhcp/
 --
 Name           : isc-dhcp44-relay
+Origin         : net/isc-dhcp44-relay
 Licenses       : MPL20
 WWW            : https://www.isc.org/dhcp/
 --
 Name           : isc-dhcp44-server
+Origin         : net/isc-dhcp44-server
 Licenses       : MPL20
 WWW            : https://www.isc.org/dhcp/
 --
 Name           : jansson
+Origin         : devel/jansson
 Licenses       : MIT
 WWW            : https://github.com/akheron/jansson
 --
 Name           : java-zoneinfo
+Origin         : java/java-zoneinfo
 Licenses       : PD
 WWW            : UNKNOWN
+--
 Name           : javavmwrapper
+Origin         : java/javavmwrapper
 Licenses       : BSD2CLAUSE and BEERWARE
 WWW            : UNKNOWN
+--
 Name           : jbig2dec
+Origin         : graphics/jbig2dec
 Licenses       : GPLv3
 WWW            : https://github.com/ArtifexSoftware/jbig2dec
 --
 Name           : jbigkit
+Origin         : graphics/jbigkit
 Licenses       : GPLv2+
 WWW            : https://www.cl.cam.ac.uk/~mgk25/jbigkit/
 --
 Name           : jpeg-turbo
+Origin         : graphics/jpeg-turbo
 Licenses       : ZLIB and IJG and BSD3CLAUSE
 WWW            : https://libjpeg-turbo.org/
 --
 Name           : json-c
+Origin         : devel/json-c
 Licenses       : MIT
 WWW            : https://github.com/json-c/json-c/wiki
 --
 Name           : jsoncpp
+Origin         : devel/jsoncpp
 Licenses       : MIT
 WWW            : https://github.com/open-source-parsers/jsoncpp
 --
 Name           : ladvd
+Origin         : net/ladvd
 Licenses       : MIT
 WWW            : https://github.com/sspans/ladvd
 --
 Name           : lame
+Origin         : audio/lame
 Licenses       : LGPL20+
 WWW            : http://lame.sourceforge.net/
 --
 Name           : lcdproc
+Origin         : sysutils/lcdproc
 Licenses       : GPLv2
 WWW            : https://www.lcdproc.org/
 --
 Name           : lcms2
+Origin         : graphics/lcms2
 Licenses       : MIT
 WWW            : https://www.littlecms.com/
 --
 Name           : libICE
+Origin         : x11/libICE
 Licenses       : MIT
 WWW            : https://www.freedesktop.org/wiki/Software/xlibs/
 --
 Name           : libSM
+Origin         : x11/libSM
 Licenses       : MIT
 WWW            : https://www.freedesktop.org/Software/xlibs
 --
 Name           : libX11
+Origin         : x11/libX11
 Licenses       : MIT
 WWW            : https://www.freedesktop.org/Software/xlibs
 --
 Name           : libXau
+Origin         : x11/libXau
 Licenses       : MIT
 WWW            : https://www.freedesktop.org/wiki/Software/xlibs/
 --
 Name           : libXaw
+Origin         : x11-toolkits/libXaw
 Licenses       : MIT
 WWW            : https://www.freedesktop.org/wiki/Software/xlibs/
 --
 Name           : libXcomposite
+Origin         : x11/libXcomposite
 Licenses       : MIT
 WWW            : https://www.freedesktop.org/wiki/Software/xlibs/
 --
 Name           : libXcursor
+Origin         : x11/libXcursor
 Licenses       : MIT
 WWW            : https://www.freedesktop.org/Software/xlibs
 --
 Name           : libXdamage
+Origin         : x11/libXdamage
 Licenses       : MIT
 WWW            : https://www.freedesktop.org/wiki/Software/xlibs/
 --
 Name           : libXdmcp
+Origin         : x11/libXdmcp
 Licenses       : MIT
 WWW            : https://www.freedesktop.org/Software/xlibs
 --
 Name           : libXext
+Origin         : x11/libXext
 Licenses       : MIT
 WWW            : https://www.freedesktop.org/Software/xlibs
 --
 Name           : libXfixes
+Origin         : x11/libXfixes
 Licenses       : MIT
 WWW            : https://www.freedesktop.org/Software/xlibs
 --
 Name           : libXi
+Origin         : x11/libXi
 Licenses       : MIT
 WWW            : https://www.freedesktop.org/Software/xlibs
 --
 Name           : libXinerama
+Origin         : x11/libXinerama
 Licenses       : MIT
 WWW            : https://www.freedesktop.org/Software/xlibs
 --
 Name           : libXmu
+Origin         : x11-toolkits/libXmu
 Licenses       : MIT
 WWW            : https://www.freedesktop.org/wiki/Software/xlibs/
 --
 Name           : libXpm
+Origin         : x11/libXpm
 Licenses       : MIT
 WWW            : https://www.freedesktop.org/Software/xlibs
 --
 Name           : libXrandr
+Origin         : x11/libXrandr
 Licenses       : MIT
 WWW            : https://www.freedesktop.org/Software/xlibs
 --
 Name           : libXrender
+Origin         : x11/libXrender
 Licenses       : MIT
 WWW            : https://www.freedesktop.org/Software/xlibs
 --
 Name           : libXt
+Origin         : x11-toolkits/libXt
 Licenses       : MIT
 WWW            : https://www.freedesktop.org/wiki/Software/xlibs/
 --
 Name           : libXtst
+Origin         : x11/libXtst
 Licenses       : MIT
 WWW            : https://www.freedesktop.org/Software/xorg
 --
 Name           : libao
+Origin         : audio/libao
 Licenses       : GPLv2
 WWW            : https://www.xiph.org/ao/
 --
 Name           : libarchive
+Origin         : archivers/libarchive
 Licenses       : BSD2CLAUSE
 WWW            : https://libarchive.org/
 --
 Name           : libassuan
+Origin         : security/libassuan
 Licenses       : LGPL21
 WWW            : https://gnupg.org/related_software/libassuan/index.en.html
 --
 Name           : libcjson
+Origin         : devel/libcjson
 Licenses       : MIT
 WWW            : https://github.com/DaveGamble/cJSON
 --
 Name           : libdaemon
+Origin         : devel/libdaemon
 Licenses       : LGPL21+
 WWW            : https://0pointer.de/lennart/projects/libdaemon/
 --
 Name           : libdatrie
+Origin         : devel/libdatrie
 Licenses       : LGPL21+
 WWW            : https://linux.thai.net/projects/datrie/
 --
 Name           : libde265
+Origin         : multimedia/libde265
 Licenses       : LGPL3
 WWW            : https://www.libde265.org
 --
 Name           : libdeflate
+Origin         : archivers/libdeflate
 Licenses       : MIT
 WWW            : https://github.com/ebiggers/libdeflate
 --
 Name           : libdnet
+Origin         : net/libdnet
 Licenses       : BSD3CLAUSE
 WWW            : https://github.com/5u623l20/libdnet/
 --
 Name           : libdrm
+Origin         : graphics/libdrm
 Licenses       : MIT
 WWW            : https://dri.freedesktop.org/
 --
 Name           : libedit
+Origin         : devel/libedit
 Licenses       : BSD2CLAUSE
 WWW            : https://thrysoee.dk/editline/
 --
 Name           : libepoll-shim
+Origin         : devel/libepoll-shim
 Licenses       : MIT
 WWW            : https://github.com/jiixyj/epoll-shim
 --
 Name           : libepoxy
+Origin         : graphics/libepoxy
 Licenses       : MIT
 WWW            : https://github.com/anholt/libepoxy
 --
 Name           : libestr
+Origin         : devel/libestr
 Licenses       : LGPL21+
 WWW            : https://libestr.adiscon.com/
 --
 Name           : libevent
+Origin         : devel/libevent
 Licenses       : BSD3CLAUSE
 WWW            : https://libevent.org/
 --
 Name           : libfastjson
+Origin         : devel/libfastjson
 Licenses       : MIT
 WWW            : https://github.com/rsyslog/libfastjson
 --
 Name           : libffi
+Origin         : devel/libffi
 Licenses       : MIT
 WWW            : https://sourceware.org/libffi/
 --
 Name           : libfontenc
+Origin         : x11-fonts/libfontenc
 Licenses       : MIT
 WWW            : https://www.x.org/
 --
 Name           : libgcrypt
+Origin         : security/libgcrypt
 Licenses       : LGPL21+ and GPLv2+
 WWW            : https://www.gnupg.org/software/libgcrypt/index.html
 --
 Name           : libgd
+Origin         : graphics/gd
 Licenses       : MIT
 WWW            : https://libgd.github.io/
 --
 Name           : libglvnd
+Origin         : graphics/libglvnd
 Licenses       : MIT and APACHE20
 WWW            : https://gitlab.freedesktop.org/glvnd/libglvnd
 --
 Name           : libgpg-error
+Origin         : security/libgpg-error
 Licenses       : LGPL21 and GPLv2
 WWW            : https://www.gnupg.org/software/libgpg-error/
 --
 Name           : libgudev
+Origin         : devel/libgudev
 Licenses       : LGPL21
 WWW            : https://wiki.gnome.org/Projects/libgudev
 --
 Name           : libgusb
+Origin         : devel/libgusb
 Licenses       : LGPL21
 WWW            : https://github.com/hughsie/libgusb
 --
 Name           : libheif
+Origin         : graphics/libheif
 Licenses       : LGPL3+
 WWW            : https://github.com/strukturag/libheif
 --
 Name           : libiconv
+Origin         : converters/libiconv
 Licenses       : GPLv3
 WWW            : https://www.gnu.org/software/libiconv/
 --
 Name           : libidn
+Origin         : dns/libidn
 Licenses       : LGPL3+ or GPLv2+
 WWW            : https://www.gnu.org/software/libidn/
 --
 Name           : libidn2
+Origin         : dns/libidn2
 Licenses       : GPLv3
 WWW            : https://www.gnu.org/software/libidn/#libidn2
 --
 Name           : libinotify
+Origin         : devel/libinotify
 Licenses       : MIT
 WWW            : https://github.com/libinotify-kqueue/libinotify-kqueue
 --
 Name           : libjxl
+Origin         : graphics/libjxl
 Licenses       : BSD3CLAUSE
 WWW            : https://jpeg.org/jpegxl/
 --
 Name           : libksba
+Origin         : security/libksba
 Licenses       : LGPL3 or GPLv3 or GPLv2
 WWW            : https://www.gnupg.org/aegypten2/
 --
 Name           : liblogging
+Origin         : devel/liblogging
 Licenses       : BSD2CLAUSE
 WWW            : https://www.liblogging.org/
 --
 Name           : liblqr-1
+Origin         : graphics/liblqr-1
 Licenses       : LGPL3
 WWW            : https://liblqr.wikidot.com/
 --
 Name           : libltdl
+Origin         : devel/libltdl
 Licenses       : LGPL21
 WWW            : https://www.gnu.org/software/libtool/
 --
 Name           : liblz4
+Origin         : archivers/liblz4
 Licenses       : GPLv2 and BSD2CLAUSE
 WWW            : https://lz4.github.io/lz4/
 --
 Name           : libmaxminddb
+Origin         : net/libmaxminddb
 Licenses       : APACHE20
 WWW            : https://github.com/maxmind/libmaxminddb
 --
 Name           : libmspack
+Origin         : archivers/libmspack
 Licenses       : LGPL21
 WWW            : https://www.cabextract.org.uk/libmspack/
 --
 Name           : libnet
+Origin         : net/libnet
 Licenses       : BSD2CLAUSE
 WWW            : https://github.com/libnet/libnet
 --
 Name           : libnghttp2
+Origin         : www/libnghttp2
 Licenses       : MIT
 WWW            : https://nghttp2.org/
 --
 Name           : libogg
+Origin         : audio/libogg
 Licenses       : BSD3CLAUSE
 WWW            : https://www.xiph.org/ogg/
 --
 Name           : libosip2
+Origin         : net/libosip2
 Licenses       : LGPL21
 WWW            : https://www.gnu.org/software/osip/
 --
 Name           : libpaper
+Origin         : print/libpaper
 Licenses       : GPLv2
 WWW            : https://packages.qa.debian.org/libp/libpaper.html
 --
 Name           : libpcap
+Origin         : net/libpcap
 Licenses       : BSD3CLAUSE
 WWW            : https://www.tcpdump.org/
 --
 Name           : libpci
+Origin         : devel/libpci
 Licenses       : GPLv2
 WWW            : https://mj.ucw.cz/sw/pciutils/
 --
 Name           : libpciaccess
+Origin         : devel/libpciaccess
 Licenses       : MIT
 WWW            : https://www.freedesktop.org/wiki/Software/xlibs/
 --
 Name           : libpsl
+Origin         : dns/libpsl
 Licenses       : MIT
 WWW            : https://github.com/rockdaboot/libpsl
 --
 Name           : libqrencode
+Origin         : graphics/libqrencode
 Licenses       : LGPL21
 WWW            : https://github.com/fukuchi/libqrencode
 --
 Name           : libraw
+Origin         : graphics/libraw
 Licenses       : LGPL21 or CDDL
 WWW            : https://www.libraw.org/
 --
 Name           : librelp
+Origin         : devel/librelp
 Licenses       : GPLv3
 WWW            : https://www.rsyslog.com/librelp/
 --
 Name           : librsvg2-rust
+Origin         : graphics/librsvg2-rust
 Licenses       : LGPL20
 WWW            : https://live.gnome.org/LibRsvg
 --
 Name           : libsmi
+Origin         : net-mgmt/libsmi
 Licenses       : 
 WWW            : https://www.ibr.cs.tu-bs.de/projects/libsmi/
 --
 Name           : libsodium
+Origin         : security/libsodium
 Licenses       : ISCL
 WWW            : https://github.com/jedisct1/libsodium
 --
 Name           : libssh2
+Origin         : security/libssh2
 Licenses       : BSD3CLAUSE
 WWW            : https://www.libssh2.org/
 --
 Name           : libstatgrab
+Origin         : devel/libstatgrab
 Licenses       : LGPL21 and GPLv2
 WWW            : https://libstatgrab.org/
 --
 Name           : libsunacl
+Origin         : sysutils/libsunacl
 Licenses       : BSD2CLAUSE
 WWW            : UNKNOWN
 --
 Name           : libtasn1
+Origin         : security/libtasn1
 Licenses       : LGPL21+ and GPLv3
 WWW            : https://www.gnu.org/software/libtasn1/
 --
 Name           : libtextstyle
+Origin         : devel/libtextstyle
 Licenses       : GPLv3+
 WWW            : https://www.gnu.org/software/gettext/libtextstyle/manual/
 --
 Name           : libthai
+Origin         : devel/libthai
 Licenses       : LGPL21+
 WWW            : https://linux.thai.net/projects/libthai/
 --
 Name           : libtommath
+Origin         : math/libtommath
 Licenses       : UNLICENSE
 WWW            : https://libtom.net/
 --
 Name           : libtool
+Origin         : devel/libtool
 Licenses       : GPLv2
 WWW            : https://www.gnu.org/software/libtool/
 --
 Name           : libublio
+Origin         : devel/libublio
 Licenses       : BSD2CLAUSE
 WWW            : UNKNOWN
 --
 Name           : libudev-devd
+Origin         : devel/libudev-devd
 Licenses       : BSD2CLAUSE
 WWW            : https://github.com/wulf7/libudev-devd
 --
 Name           : libunistring
+Origin         : devel/libunistring
 Licenses       : LGPL3+ and GPLv2 and GFDL
 WWW            : https://www.gnu.org/software/libunistring/
 --
 Name           : libunwind
+Origin         : devel/libunwind
 Licenses       : MIT
 WWW            : https://www.nongnu.org/libunwind/
 --
 Name           : libuv
+Origin         : devel/libuv
 Licenses       : MIT
 WWW            : https://github.com/libuv/libuv
 --
 Name           : libvorbis
+Origin         : audio/libvorbis
 Licenses       : BSD3CLAUSE
 WWW            : https://xiph.org/vorbis/
 --
 Name           : libvpx
+Origin         : multimedia/libvpx
 Licenses       : BSD3CLAUSE
 WWW            : https://www.webmproject.org/
 --
 Name           : libwebsockets
+Origin         : net/libwebsockets
 Licenses       : MIT
 WWW            : https://libwebsockets.org/
 --
 Name           : libwmf-nox11
+Origin         : graphics/libwmf-nox11
 Licenses       : GPLv2+
 WWW            : http://wvware.sourceforge.net/libwmf.html
 --
 Name           : libxcb
+Origin         : x11/libxcb
 Licenses       : MIT
 WWW            : https://xcb.freedesktop.org/
 --
 Name           : libxkbcommon
+Origin         : x11/libxkbcommon
 Licenses       : MIT
 WWW            : https://xkbcommon.org/
 --
 Name           : libxml2
+Origin         : textproc/libxml2
 Licenses       : MIT
 WWW            : http://xmlsoft.org/
 --
 Name           : libxslt
+Origin         : textproc/libxslt
 Licenses       : MIT
 WWW            : https://gitlab.gnome.org/GNOME/libxslt/
 --
 Name           : libyaml
+Origin         : textproc/libyaml
 Licenses       : MIT
 WWW            : https://pyyaml.org/wiki/LibYAML
 --
 Name           : libzip
+Origin         : archivers/libzip
 Licenses       : BSD3CLAUSE
 WWW            : https://libzip.org/
 --
 Name           : llvm15
+Origin         : devel/llvm15
 Licenses       : REGEX and PD and MIT and LLVM2 and LLVM and BSD3CLAUSE
 WWW            : https://llvm.org/
 --
 Name           : lmdb
+Origin         : databases/lmdb
 Licenses       : OPENLDAP
 WWW            : https://symas.com/lmdb/
 --
 Name           : lua53
+Origin         : lang/lua53
 Licenses       : MIT
 WWW            : https://www.lua.org/
 --
 Name           : lua54
+Origin         : lang/lua54
 Licenses       : MIT
 WWW            : https://www.lua.org/
 --
 Name           : lynx
+Origin         : www/lynx
 Licenses       : GPLv2
 WWW            : https://lynx.invisible-island.net/
 --
 Name           : lzo2
+Origin         : archivers/lzo2
 Licenses       : GPLv2
 WWW            : https://www.oberhumer.com/opensource/lzo/
 --
 Name           : m4
+Origin         : devel/m4
 Licenses       : GPLv3
 WWW            : https://www.gnu.org/software/m4/m4.html
 --
 Name           : metis
+Origin         : math/metis
 Licenses       : APACHE20
 WWW            : http://glaros.dtc.umn.edu/gkhome/metis/metis/overview
 --
 Name           : mgetty
+Origin         : comms/mgetty+sendfax
 Licenses       : GPLv2
 WWW            : http://mgetty.greenie.net/
 --
 Name           : minissdpd
+Origin         : net/minissdpd
 Licenses       : BSD3CLAUSE
 WWW            : http://miniupnp.free.fr/minissdpd.html
 --
 Name           : miniupnpc
+Origin         : net/miniupnpc
 Licenses       : BSD3CLAUSE
 WWW            : http://miniupnp.free.fr/
 --
 Name           : miniupnpd
+Origin         : net/miniupnpd
 Licenses       : BSD3CLAUSE
 WWW            : http://miniupnp.free.fr/
 --
 Name           : mkfontscale
+Origin         : x11-fonts/mkfontscale
 Licenses       : MIT
 WWW            : https://www.xfree86.org/4.3.0/mkfontscale.1.html
 --
 Name           : mosquitto
+Origin         : net/mosquitto
 Licenses       : EPL
 WWW            : https://mosquitto.org/
 --
 Name           : mpc
+Origin         : math/mpc
 Licenses       : LGPL3+
 WWW            : https://www.multiprecision.org/mpc/
 --
 Name           : mpdecimal
+Origin         : math/mpdecimal
 Licenses       : BSD2CLAUSE
 WWW            : https://www.bytereef.org/mpdecimal/index.html
 --
 Name           : mpfr
+Origin         : math/mpfr
 Licenses       : LGPL3+
 WWW            : https://www.mpfr.org/
 --
 Name           : mrtg
+Origin         : net-mgmt/mrtg
 Licenses       : 
 WWW            : https://oss.oetiker.ch/mrtg/
 --
 Name           : mrtg-ping-probe
+Origin         : net-mgmt/mrtg-ping-probe
 Licenses       : GPLv2
 WWW            : http://pwo.de/projects/mrtg/
 --
 Name           : mtr
+Origin         : net/mtr
 Licenses       : GPLv2
 WWW            : https://www.bitwizard.nl/mtr/
 --
 Name           : mysql57-client
+Origin         : databases/mysql57-client
 Licenses       : GPLv2
 WWW            : https://www.mysql.com/
 --
 Name           : nano
+Origin         : editors/nano
 Licenses       : GPLv3
 WWW            : https://www.nano-editor.org/
 --
 Name           : ncdu
+Origin         : sysutils/ncdu
 Licenses       : MIT
 WWW            : https://dev.yorhel.nl/ncdu
 --
 Name           : net-snmp
+Origin         : net-mgmt/net-snmp
 Licenses       : BSD3CLAUSE
 WWW            : http://net-snmp.sourceforge.net/
 --
 Name           : nettle
+Origin         : security/nettle
 Licenses       : LGPL3 and GPLv2+
 WWW            : https://www.lysator.liu.se/~nisse/nettle/
 --
 Name           : nginx
+Origin         : www/nginx
 Licenses       : BSD2CLAUSE
 WWW            : https://nginx.com/
 --
 Name           : nmap
+Origin         : security/nmap
 Licenses       : NPSL
 WWW            : https://nmap.org/
 --
 Name           : node16
+Origin         : www/node16
 Licenses       : MIT
 WWW            : https://nodejs.org/
 --
 Name           : npth
+Origin         : devel/npth
 Licenses       : LGPL21+
 WWW            : https://www.gnupg.org/software/npth/index.html
 --
 Name           : nspr
+Origin         : devel/nspr
 Licenses       : MPL20
 WWW            : https://developer.mozilla.org/docs/Mozilla/Projects/NSPR
 --
 Name           : nss
+Origin         : security/nss
 Licenses       : MPL20
 WWW            : https://developer.mozilla.org/docs/Mozilla/Projects/NSS
 --
 Name           : nss_mdns
+Origin         : dns/nss_mdns
 Licenses       : LGPL21
 WWW            : https://github.com/lathiat/nss-mdns
 --
 Name           : ntp
+Origin         : net/ntp
 Licenses       : 
 WWW            : https://www.ntp.org/
 --
 Name           : open-vm-tools-nox11
+Origin         : emulators/open-vm-tools
 Licenses       : LGPL21
 WWW            : https://github.com/vmware/open-vm-tools
 --
 Name           : openbgpd
+Origin         : net/openbgpd
 Licenses       : ISCL
 WWW            : https://www.openbgpd.org/
 --
 Name           : openblas
+Origin         : math/openblas
 Licenses       : BSD3CLAUSE
 WWW            : https://github.com/xianyi/OpenBLAS
 --
 Name           : opendkim
+Origin         : mail/opendkim
 Licenses       : SENDMAIL and BSD3CLAUSE
 WWW            : http://opendkim.org/
 --
 Name           : openexr
+Origin         : graphics/openexr
 Licenses       : BSD3CLAUSE
 WWW            : https://www.openexr.com/
 --
 Name           : openjdk8
+Origin         : java/openjdk8
 Licenses       : GPLv2
 WWW            : https://openjdk.java.net/
 --
 Name           : openjpeg
+Origin         : graphics/openjpeg
 Licenses       : BSD2CLAUSE
 WWW            : https://www.openjpeg.org/
 --
 Name           : openldap26-client
+Origin         : net/openldap26-client
 Licenses       : OPENLDAP
 WWW            : https://www.OpenLDAP.org/
 --
 Name           : openvpn
+Origin         : security/openvpn
 Licenses       : GPLv2
 WWW            : https://openvpn.net/community/
 --
 Name           : opus
+Origin         : audio/opus
 Licenses       : BSD3CLAUSE
 WWW            : https://opus-codec.org/
 --
 Name           : opusfile
+Origin         : audio/opusfile
 Licenses       : BSD3CLAUSE
 WWW            : https://opus-codec.org/
 --
 Name           : p11-kit
+Origin         : security/p11-kit
 Licenses       : BSD3CLAUSE
 WWW            : https://p11-glue.freedesktop.org/p11-kit.html
 --
 Name           : p5-Algorithm-C3
+Origin         : devel/p5-Algorithm-C3
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/Algorithm-C3
 --
 Name           : p5-Authen-DecHpwd
+Origin         : security/p5-Authen-DecHpwd
 Licenses       : GPLv2+
 WWW            : https://metacpan.org/release/Authen-DecHpwd
 --
 Name           : p5-Authen-NTLM
+Origin         : security/p5-Authen-NTLM
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/NTLM
 --
 Name           : p5-Authen-Passphrase
+Origin         : security/p5-Authen-Passphrase
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/Authen-Passphrase
 --
 Name           : p5-Authen-SASL
+Origin         : security/p5-Authen-SASL
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/Authen-SASL
 --
 Name           : p5-B-Hooks-EndOfScope
+Origin         : devel/p5-B-Hooks-EndOfScope
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/B-Hooks-EndOfScope
 --
 Name           : p5-B-Hooks-OP-Check
+Origin         : devel/p5-B-Hooks-OP-Check
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/B-Hooks-OP-Check
 --
 Name           : p5-CGI
+Origin         : www/p5-CGI
 Licenses       : ART20
 WWW            : https://metacpan.org/release/CGI
 --
 Name           : p5-Class-C3
+Origin         : devel/p5-Class-C3
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/Class-C3
 --
 Name           : p5-Class-Data-Inheritable
+Origin         : devel/p5-Class-Data-Inheritable
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/Class-Data-Inheritable
 --
 Name           : p5-Class-Method-Modifiers
+Origin         : devel/p5-Class-Method-Modifiers
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/Class-Method-Modifiers
 --
 Name           : p5-Class-Mix
+Origin         : devel/p5-Class-Mix
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/Class-Mix
 --
 Name           : p5-Class-XSAccessor
+Origin         : devel/p5-Class-XSAccessor
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/Class-XSAccessor
 --
 Name           : p5-Clone
+Origin         : devel/p5-Clone
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/Clone
 --
 Name           : p5-Config-INI
+Origin         : devel/p5-Config-INI
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/Config-INI
 --
 Name           : p5-Config-INI-Reader-Ordered
+Origin         : devel/p5-Config-INI-Reader-Ordered
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/dist/Config-INI-Reader-Ordered
 --
 Name           : p5-Crypt-Blowfish
+Origin         : security/p5-Crypt-Blowfish
 Licenses       : BSD4CLAUSE
 WWW            : https://metacpan.org/release/Crypt-Blowfish
 --
 Name           : p5-Crypt-DES
+Origin         : security/p5-Crypt-DES
 Licenses       : BSD3CLAUSE
 WWW            : https://metacpan.org/release/Crypt-DES
 --
 Name           : p5-Crypt-Eksblowfish
+Origin         : security/p5-Crypt-Eksblowfish
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/Crypt-Eksblowfish
 --
 Name           : p5-Crypt-MySQL
+Origin         : security/p5-Crypt-MySQL
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/Crypt-MySQL
 --
 Name           : p5-Crypt-PBKDF2
+Origin         : security/p5-Crypt-PBKDF2
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/Crypt-PBKDF2
 --
 Name           : p5-Crypt-PasswdMD5
+Origin         : security/p5-Crypt-PasswdMD5
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/Crypt-PasswdMD5
 --
 Name           : p5-Crypt-Rijndael
+Origin         : security/p5-Crypt-Rijndael
 Licenses       : LGPL3
 WWW            : https://metacpan.org/release/Crypt-Rijndael
 --
 Name           : p5-Crypt-SSLeay
+Origin         : security/p5-Crypt-SSLeay
 Licenses       : ART20
 WWW            : https://metacpan.org/release/Crypt-SSLeay
 --
 Name           : p5-Crypt-UnixCrypt_XS
+Origin         : security/p5-Crypt-UnixCrypt_XS
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/Crypt-UnixCrypt_XS
 --
 Name           : p5-CryptX
+Origin         : security/p5-CryptX
 Licenses       : ART20
 WWW            : https://metacpan.org/release/CryptX
 --
 Name           : p5-DBD-Pg
+Origin         : databases/p5-DBD-Pg
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/DBD-Pg
 --
 Name           : p5-DBD-SQLite
+Origin         : databases/p5-DBD-SQLite
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/DBD-SQLite
 --
 Name           : p5-DBI
+Origin         : databases/p5-DBI
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/DBI
 --
 Name           : p5-Data-Entropy
+Origin         : security/p5-Data-Entropy
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/Data-Entropy
 --
 Name           : p5-Data-Float
+Origin         : math/p5-Data-Float
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/Data-Float
 --
 Name           : p5-Data-Integer
+Origin         : devel/p5-Data-Integer
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/Data-Integer
 --
 Name           : p5-Data-OptList
+Origin         : devel/p5-Data-OptList
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/Data-OptList
 --
 Name           : p5-Data-Validate-Domain
+Origin         : dns/p5-Data-Validate-Domain
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/Data-Validate-Domain
 --
 Name           : p5-Data-Validate-IP
+Origin         : net-mgmt/p5-Data-Validate-IP
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/Data-Validate-IP
 --
 Name           : p5-Devel-Caller
+Origin         : devel/p5-Devel-Caller
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/Devel-Caller
 --
 Name           : p5-Devel-Cycle
+Origin         : devel/p5-Devel-Cycle
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/Devel-Cycle
 --
 Name           : p5-Devel-GlobalDestruction
+Origin         : devel/p5-Devel-GlobalDestruction
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/Devel-GlobalDestruction
 --
 Name           : p5-Devel-LexAlias
+Origin         : devel/p5-Devel-LexAlias
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/Devel-LexAlias
 --
 Name           : p5-Devel-Size
+Origin         : devel/p5-Devel-Size
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/Devel-Size
 --
 Name           : p5-Devel-StackTrace
+Origin         : devel/p5-Devel-StackTrace
 Licenses       : ART20
 WWW            : https://metacpan.org/release/Devel-StackTrace
 --
 Name           : p5-Digest-Bcrypt
+Origin         : security/p5-Digest-Bcrypt
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/module/Digest::Bcrypt
 --
 Name           : p5-Digest-CRC
+Origin         : security/p5-Digest-CRC
 Licenses       : PD
 WWW            : https://metacpan.org/release/Digest-CRC
 --
 Name           : p5-Digest-HMAC
+Origin         : security/p5-Digest-HMAC
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/Digest-HMAC
 --
 Name           : p5-Digest-MD4
+Origin         : security/p5-Digest-MD4
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/Digest-MD4
 --
 Name           : p5-Digest-SHA
+Origin         : security/p5-Digest-SHA
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/Digest-SHA
 --
 Name           : p5-Digest-SHA1
+Origin         : security/p5-Digest-SHA1
 Licenses       : GPLv1+ or ART10
 WWW            : UNKNOWN
+--
 Name           : p5-Digest-SHA3
+Origin         : security/p5-Digest-SHA3
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/pod/Digest::SHA3
 --
 Name           : p5-Dist-CheckConflicts
+Origin         : devel/p5-Dist-CheckConflicts
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/Dist-CheckConflicts
 --
 Name           : p5-Encode-Locale
+Origin         : converters/p5-Encode-Locale
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/Encode-Locale
 --
 Name           : p5-Error
+Origin         : lang/p5-Error
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/Error
 --
 Name           : p5-Eval-Closure
+Origin         : devel/p5-Eval-Closure
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/Eval-Closure
 --
 Name           : p5-Exception-Class
+Origin         : devel/p5-Exception-Class
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/Exception-Class
 --
 Name           : p5-Expect
+Origin         : lang/p5-Expect
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/Expect
 --
 Name           : p5-Exporter-Tiny
+Origin         : devel/p5-Exporter-Tiny
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/Exporter-Tiny
 --
 Name           : p5-File-HomeDir
+Origin         : devel/p5-File-HomeDir
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/File-HomeDir
 --
 Name           : p5-File-Listing
+Origin         : sysutils/p5-File-Listing
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/File-Listing
 --
 Name           : p5-File-Which
+Origin         : sysutils/p5-File-Which
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/File-Which
 --
 Name           : p5-Filter
+Origin         : devel/p5-Filter
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/Filter
 --
 Name           : p5-GSSAPI
+Origin         : security/p5-GSSAPI
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/GSSAPI
 --
 Name           : p5-HTML-Parser
+Origin         : www/p5-HTML-Parser
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/HTML-Parser
 --
 Name           : p5-HTML-Tagset
+Origin         : www/p5-HTML-Tagset
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/HTML-Tagset
 --
 Name           : p5-HTTP-Cookies
+Origin         : www/p5-HTTP-Cookies
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/HTTP-Cookies
 --
 Name           : p5-HTTP-Date
+Origin         : www/p5-HTTP-Date
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/HTTP-Date
 --
 Name           : p5-HTTP-Lite
+Origin         : www/p5-HTTP-Lite
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/HTTP-Lite
 --
 Name           : p5-HTTP-Message
+Origin         : www/p5-HTTP-Message
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/HTTP-Message
 --
 Name           : p5-HTTP-Negotiate
+Origin         : www/p5-HTTP-Negotiate
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/HTTP-Negotiate
 --
 Name           : p5-IO-HTML
+Origin         : devel/p5-IO-HTML
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/IO-HTML
 --
 Name           : p5-IO-Socket-INET6
+Origin         : net/p5-IO-Socket-INET6
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/IO-Socket-INET6
 --
 Name           : p5-IO-Socket-SSL
+Origin         : security/p5-IO-Socket-SSL
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/IO-Socket-SSL
 --
 Name           : p5-IO-Tty
+Origin         : devel/p5-IO-Tty
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/IO-Tty
 --
 Name           : p5-IPC-ShareLite
+Origin         : devel/p5-IPC-ShareLite
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/IPC-ShareLite
 --
 Name           : p5-JSON
+Origin         : converters/p5-JSON
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/JSON
 --
 Name           : p5-JSON-XS
+Origin         : converters/p5-JSON-XS
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/JSON-XS
 --
 Name           : p5-LWP-MediaTypes
+Origin         : www/p5-LWP-MediaTypes
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/LWP-MediaTypes
 --
 Name           : p5-LWP-Protocol-https
+Origin         : www/p5-LWP-Protocol-https
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/LWP-Protocol-https
 --
 Name           : p5-Lingua-EN-Inflect
+Origin         : textproc/p5-Lingua-EN-Inflect
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/Lingua-EN-Inflect
 --
 Name           : p5-Lingua-EN-Inflect-Number
+Origin         : textproc/p5-Lingua-EN-Inflect-Number
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/Lingua-EN-Inflect-Number
 --
 Name           : p5-List-MoreUtils
+Origin         : lang/p5-List-MoreUtils
 Licenses       : APACHE20
 WWW            : https://metacpan.org/release/List-MoreUtils
 --
 Name           : p5-List-MoreUtils-XS
+Origin         : lang/p5-List-MoreUtils-XS
 Licenses       : APACHE20
 WWW            : https://metacpan.org/release/List-MoreUtils-XS
 --
 Name           : p5-Log-Dispatch
+Origin         : devel/p5-Log-Dispatch
 Licenses       : ART20
 WWW            : https://metacpan.org/release/Log-Dispatch
 --
 Name           : p5-Log-Log4perl
+Origin         : devel/p5-Log-Log4perl
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/Log-Log4perl
 --
 Name           : p5-MRO-Compat
+Origin         : devel/p5-MRO-Compat
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/MRO-Compat
 --
 Name           : p5-Mail-Sendmail
+Origin         : mail/p5-Mail-Sendmail
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/Mail-Sendmail
 --
 Name           : p5-Mixin-Linewise
+Origin         : devel/p5-Mixin-Linewise
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/Mixin-Linewise
 --
 Name           : p5-Module-Implementation
+Origin         : devel/p5-Module-Implementation
 Licenses       : ART20
 WWW            : https://metacpan.org/release/Module-Implementation
 --
 Name           : p5-Module-Runtime
+Origin         : devel/p5-Module-Runtime
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/Module-Runtime
 --
 Name           : p5-Moo
+Origin         : devel/p5-Moo
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/Moo
 --
 Name           : p5-Mozilla-CA
+Origin         : www/p5-Mozilla-CA
 Licenses       : MPL20
 WWW            : https://metacpan.org/release/Mozilla-CA
 --
 Name           : p5-Net-DNS
+Origin         : dns/p5-Net-DNS
 Licenses       : MIT
 WWW            : https://metacpan.org/release/Net-DNS
 --
 Name           : p5-Net-Domain-TLD
+Origin         : dns/p5-Net-Domain-TLD
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/Net-Domain-TLD
 --
 Name           : p5-Net-HTTP
+Origin         : net/p5-Net-HTTP
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/Net-HTTP
 --
 Name           : p5-Net-SFTP-Foreign
+Origin         : net/p5-Net-SFTP-Foreign
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/Net-SFTP-Foreign
 --
 Name           : p5-Net-SNMP
+Origin         : net-mgmt/p5-Net-SNMP
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/Net-SNMP
 --
 Name           : p5-Net-SSLeay
+Origin         : security/p5-Net-SSLeay
 Licenses       : OpenSSL
 WWW            : https://metacpan.org/release/Net-SSLeay
 --
 Name           : p5-NetAddr-IP
+Origin         : net-mgmt/p5-NetAddr-IP
 Licenses       : GPLv2 or ART10
 WWW            : https://metacpan.org/release/NetAddr-IP
 --
 Name           : p5-Package-Stash
+Origin         : devel/p5-Package-Stash
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/Package-Stash
 --
 Name           : p5-Package-Stash-XS
+Origin         : devel/p5-Package-Stash-XS
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/Package-Stash-XS
 --
 Name           : p5-PadWalker
+Origin         : devel/p5-PadWalker
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/PadWalker
 --
 Name           : p5-Params-Classify
+Origin         : devel/p5-Params-Classify
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/Params-Classify
 --
 Name           : p5-Params-Util
+Origin         : devel/p5-Params-Util
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/Params-Util
 --
 Name           : p5-Params-ValidationCompiler
+Origin         : devel/p5-Params-ValidationCompiler
 Licenses       : ART20
 WWW            : https://metacpan.org/release/Params-ValidationCompiler
 --
 Name           : p5-PerlIO-utf8_strict
+Origin         : devel/p5-PerlIO-utf8_strict
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/PerlIO-utf8_strict
 --
 Name           : p5-RRD-Simple
+Origin         : databases/p5-RRD-Simple
 Licenses       : 
 WWW            : https://metacpan.org/release/RRD-Simple
 --
 Name           : p5-Ref-Util-XS
+Origin         : devel/p5-Ref-Util-XS
 Licenses       : MIT
 WWW            : https://metacpan.org/release/Ref-Util-XS
 --
 Name           : p5-Reply
+Origin         : devel/p5-Reply
 Licenses       : MIT
 WWW            : https://metacpan.org/pod/Reply
 --
 Name           : p5-Role-Tiny
+Origin         : devel/p5-Role-Tiny
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/Role-Tiny
 --
 Name           : p5-SNMP_Session
+Origin         : net-mgmt/p5-SNMP_Session
 Licenses       : 
 WWW            : http://www.switch.ch/misc/leinen/snmp/perl/
 --
 Name           : p5-Scalar-String
+Origin         : devel/p5-Scalar-String
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/Scalar-String
 --
 Name           : p5-Socket6
+Origin         : net/p5-Socket6
 Licenses       : BSD3CLAUSE
 WWW            : https://metacpan.org/release/Socket6
 --
 Name           : p5-Sort-Key
+Origin         : devel/p5-Sort-Key
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/Sort-Key
 --
 Name           : p5-Specio
+Origin         : devel/p5-Specio
 Licenses       : ART20
 WWW            : https://metacpan.org/release/Specio
 --
 Name           : p5-Statistics-Descriptive
+Origin         : math/p5-Statistics-Descriptive
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/Statistics-Descriptive
 --
 Name           : p5-Storable
+Origin         : devel/p5-Storable
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/Storable
 --
 Name           : p5-Sub-Exporter
+Origin         : devel/p5-Sub-Exporter
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/Sub-Exporter
 --
 Name           : p5-Sub-Exporter-Progressive
+Origin         : devel/p5-Sub-Exporter-Progressive
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/Sub-Exporter-Progressive
 --
 Name           : p5-Sub-Identify
+Origin         : devel/p5-Sub-Identify
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/Sub-Identify
 --
 Name           : p5-Sub-Install
+Origin         : devel/p5-Sub-Install
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/Sub-Install
 --
 Name           : p5-Sub-Quote
+Origin         : devel/p5-Sub-Quote
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/pod/Sub::Quote
 --
 Name           : p5-Switch
+Origin         : lang/p5-Switch
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/Switch
 --
 Name           : p5-Term-ReadKey
+Origin         : devel/p5-Term-ReadKey
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/TermReadKey
 --
 Name           : p5-Term-ReadLine-Gnu
+Origin         : devel/p5-Term-ReadLine-Gnu
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/Term-ReadLine-Gnu
 --
 Name           : p5-Test-Harness
+Origin         : devel/p5-Test-Harness
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/Test-Harness
 --
 Name           : p5-TimeDate
+Origin         : devel/p5-TimeDate
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/TimeDate
 --
 Name           : p5-Try-Tiny
+Origin         : lang/p5-Try-Tiny
 Licenses       : MIT
 WWW            : https://metacpan.org/release/Try-Tiny
 --
 Name           : p5-Type-Tiny
+Origin         : devel/p5-Type-Tiny
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/Type-Tiny
 --
 Name           : p5-Type-Tiny-XS
+Origin         : devel/p5-Type-Tiny-XS
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/Type-Tiny-XS
 --
 Name           : p5-Types-Serialiser
+Origin         : devel/p5-Types-Serialiser
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/Types-Serialiser
 --
 Name           : p5-URI
+Origin         : net/p5-URI
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/URI
 --
 Name           : p5-Variable-Magic
+Origin         : devel/p5-Variable-Magic
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/Variable-Magic
 --
+Name           : p5-WWW-RobotRules
 Origin         : www/p5-WWW-RobotRules
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/WWW-RobotRules
 --
 Name           : p5-XML-Parser
+Origin         : textproc/p5-XML-Parser
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/XML-Parser
 --
 Name           : p5-YAML-Tiny
+Origin         : textproc/p5-YAML-Tiny
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/YAML-Tiny
 --
 Name           : p5-bareword-filehandles
+Origin         : devel/p5-bareword-filehandles
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/bareword-filehandles
 --
 Name           : p5-common-sense
+Origin         : devel/p5-common-sense
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/common-sense
 --
 Name           : p5-indirect
+Origin         : devel/p5-indirect
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/indirect
 --
 Name           : p5-libwww
+Origin         : www/p5-libwww
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/libwww-perl
 --
 Name           : p5-multidimensional
+Origin         : devel/p5-multidimensional
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/multidimensional
 --
-Name           : p5-namespace-autoclean
+Name           : p5---
+Namespace-autoclean
+Origin         : devel/p5---
+Namespace-autoclean
 Licenses       : GPLv1+ or ART10
-WWW            : https://metacpan.org/release/namespace-autoclean
+WWW            : https://metacpan.org/release/--
+Namespace-autoclean
 --
-Name           : p5-namespace-clean
+Name           : p5---
+Namespace-clean
+Origin         : devel/p5---
+Namespace-clean
 Licenses       : GPLv1+ or ART10
-WWW            : https://metacpan.org/release/namespace-clean
+WWW            : https://metacpan.org/release/--
+Namespace-clean
 --
 Name           : p5-strictures
+Origin         : devel/p5-strictures
 Licenses       : GPLv1+ or ART10
 WWW            : https://metacpan.org/release/strictures
 --
 Name           : pango
+Origin         : x11-toolkits/pango
 Licenses       : LGPL20
 WWW            : https://www.pango.org/
 --
 Name           : par2cmdline
+Origin         : archivers/par2cmdline
 Licenses       : GPLv2
 WWW            : https://github.com/Parchive/par2cmdline
 --
 Name           : parpd
+Origin         : net/parpd
 Licenses       : ART20
 WWW            : https://lutz.donnerhacke.de/Projekte/parpd
 --
 Name           : patch
+Origin         : devel/patch
 Licenses       : GPLv3+
 WWW            : https://savannah.gnu.org/projects/patch/
 --
 Name           : pciids
+Origin         : misc/pciids
 Licenses       : GPLv2+ or BSD3CLAUSE
 WWW            : https://pci-ids.ucw.cz/
 --
 Name           : pcre
+Origin         : devel/pcre
 Licenses       : BSD3CLAUSE
 WWW            : https://www.pcre.org/
 --
 Name           : pcre2
+Origin         : devel/pcre2
 Licenses       : BSD3CLAUSE
 WWW            : https://www.pcre.org/
 --
 Name           : perl5
+Origin         : lang/perl5.32
 Licenses       : GPLv1+ or ART10
 WWW            : https://www.perl.org/
 --
 Name           : pftop
+Origin         : sysutils/pftop
 Licenses       : BSD2CLAUSE
 WWW            : https://github.com/araujobsd/pftop/
 --
 Name           : pgmetrics
+Origin         : databases/pgmetrics
 Licenses       : APACHE20
 WWW            : https://pgmetrics.io/
 --
 Name           : pgtop
+Origin         : databases/pgtop
 Licenses       : GPLv2
 WWW            : https://metacpan.org/release/COSIMO/pgtop-0.05
 --
 Name           : pinentry
+Origin         : security/pinentry
 Licenses       : GPLv2+
 WWW            : https://www.gnupg.org/aegypten2
 --
 Name           : pinentry-curses
+Origin         : security/pinentry-curses
 Licenses       : GPLv2+
 WWW            : https://www.gnupg.org/aegypten2
 --
 Name           : pixman
+Origin         : x11/pixman
 Licenses       : MIT
 WWW            : http://pixman.org
 --
 Name           : pkcs11-helper
+Origin         : security/pkcs11-helper
 Licenses       : GPLv2 or BSD3CLAUSE
 WWW            : https://github.com/OpenSC/pkcs11-helper
 --
 Name           : pkg
+Origin         : ports-mgmt/pkg
 Licenses       : BSD2CLAUSE
 WWW            : https://github.com/freebsd/pkg
 --
 Name           : pkgconf
+Origin         : devel/pkgconf
 Licenses       : ISCL
 WWW            : https://git.sr.ht/~kaniini/pkgconf
 --
 Name           : png
+Origin         : graphics/png
 Licenses       : Libpng
 WWW            : http://www.libpng.org/pub/png/libpng.html
 --
 Name           : polkit
+Origin         : sysutils/polkit
 Licenses       : GPLv2
 WWW            : https://www.freedesktop.org/wiki/Software/polkit/
 --
 Name           : poppler-data
+Origin         : graphics/poppler-data
 Licenses       : MIT and GPLv2 and ADOBE
 WWW            : https://poppler.freedesktop.org/
 --
 Name           : popt
+Origin         : devel/popt
 Licenses       : MIT
 WWW            : https://github.com/rpm-software-management/popt
 --
 Name           : postgresql12-client
+Origin         : databases/postgresql12-client
 Licenses       : PostgreSQL
 WWW            : https://www.postgresql.org/
 --
 Name           : postgresql12-contrib
+Origin         : databases/postgresql12-contrib
 Licenses       : PostgreSQL
 WWW            : https://www.postgresql.org/
 --
 Name           : postgresql12-server
+Origin         : databases/postgresql12-server
 Licenses       : PostgreSQL
 WWW            : https://www.postgresql.org/
 --
 Name           : pot
+Origin         : sysutils/pot
 Licenses       : BSD3CLAUSE
 WWW            : https://github.com/pizzamig/pot/
 --
 Name           : potnet
+Origin         : sysutils/potnet
 Licenses       : BSD3CLAUSE
 WWW            : https://github.com/pizzamig/potnet
 --
 Name           : privoxy
+Origin         : www/privoxy
 Licenses       : 
 WWW            : https://www.privoxy.org/
 --
 Name           : protobuf
+Origin         : devel/protobuf
 Licenses       : BSD3CLAUSE
 WWW            : https://github.com/protocolbuffers/protobuf
 --
 Name           : protobuf-c
+Origin         : devel/protobuf-c
 Licenses       : BSD2CLAUSE
 WWW            : https://github.com/protobuf-c/protobuf-c
 --
 Name           : psutils
+Origin         : print/psutils
 Licenses       : 
 WWW            : http://gershwin.ens.fr/vdaniel/Doc-Locale/Outils-Gnu-Linux/PsUtils/
 --
 Name           : pulledpork
+Origin         : security/pulledpork
 Licenses       : GPLv2
 WWW            : https://github.com/shirkdog/pulledpork/
 --
 Name           : putty-nogtk
+Origin         : security/putty-nogtk
 Licenses       : MIT
 WWW            : https://www.chiark.greenend.org.uk/~sgtatham/putty/
 --
 Name           : pv
+Origin         : sysutils/pv
 Licenses       : ART20
 WWW            : https://www.ivarch.com/programs/pv.shtml
 --
 Name           : py39-Babel
+Origin         : devel/py-babel
 Licenses       : BSD3CLAUSE
 WWW            : https://babel.pocoo.org/
 --
 Name           : py39-Jinja2
+Origin         : devel/py-Jinja2
 Licenses       : BSD3CLAUSE
 WWW            : https://jinja.palletsprojects.com/en/3.1.x/
 --
 Name           : py39-acme
+Origin         : security/py-acme
 Licenses       : APACHE20
 WWW            : https://github.com/certbot/certbot/tree/master/acme
 --
 Name           : py39-ansible
+Origin         : sysutils/ansible
 Licenses       : GPLv3+
 WWW            : https://www.ansible.com/
 --
 Name           : py39-ansible-core
+Origin         : sysutils/py-ansible-core
 Licenses       : GPLv3+
 WWW            : https://www.ansible.com/
 --
 Name           : py39-attrs
+Origin         : devel/py-attrs
 Licenses       : MIT
 WWW            : https://github.com/python-attrs/attrs
 --
 Name           : py39-certbot
+Origin         : security/py-certbot
 Licenses       : APACHE20
 WWW            : https://github.com/certbot/certbot
 --
 Name           : py39-certbot-nginx
+Origin         : security/py-certbot-nginx
 Licenses       : APACHE20
 WWW            : https://github.com/certbot/certbot
 --
 Name           : py39-certifi
+Origin         : security/py-certifi
 Licenses       : MPL20
 WWW            : https://github.com/certifi/python-certifi
 --
 Name           : py39-cffi
+Origin         : devel/py-cffi
 Licenses       : MIT
 WWW            : https://cffi.readthedocs.io/en/latest/
 --
 Name           : py39-charset-normalizer
+Origin         : textproc/py-charset-normalizer
 Licenses       : MIT
 WWW            : https://github.com/Ousret/charset_normalizer
 --
 Name           : py39-click
+Origin         : devel/py-click
 Licenses       : BSD3CLAUSE
 WWW            : https://github.com/pallets/click
 --
 Name           : py39-coloredlogs
+Origin         : devel/py-coloredlogs
 Licenses       : MIT
 WWW            : https://coloredlogs.readthedocs.io/en/latest/
 --
 Name           : py39-configargparse
+Origin         : devel/py-configargparse
 Licenses       : MIT
 WWW            : https://github.com/bw2/ConfigArgParse
 --
 Name           : py39-configobj
+Origin         : devel/py-configobj
 Licenses       : BSD3CLAUSE
 WWW            : https://github.com/DiffSK/configobj/
 --
 Name           : py39-cryptography
+Origin         : security/py-cryptography
 Licenses       : BSD3CLAUSE or APACHE20
 WWW            : https://github.com/pyca/cryptography
 --
 Name           : py39-distro
+Origin         : sysutils/py-distro
 Licenses       : APACHE20
 WWW            : https://github.com/python-distro/distro
 --
 Name           : py39-dnspython
+Origin         : dns/py-dnspython
 Licenses       : ISCL
 WWW            : https://www.dnspython.org/
 --
 Name           : py39-gitdb
+Origin         : devel/py-gitdb
 Licenses       : BSD3CLAUSE
 WWW            : https://github.com/gitpython-developers/gitdb
 --
 Name           : py39-gitpython
+Origin         : devel/py-gitpython
 Licenses       : BSD3CLAUSE
 WWW            : https://github.com/gitpython-developers/GitPython
 --
 Name           : py39-humanfriendly
+Origin         : textproc/py-humanfriendly
 Licenses       : MIT
 WWW            : https://humanfriendly.readthedocs.io/en/latest/
 --
 Name           : py39-idna
+Origin         : dns/py-idna
 Licenses       : BSD3CLAUSE
 WWW            : https://github.com/kjd/idna
 --
 Name           : py39-importlib-metadata
+Origin         : devel/py-importlib-metadata
 Licenses       : APACHE20
 WWW            : https://github.com/python/importlib_metadata
 --
 Name           : py39-iocage
+Origin         : sysutils/iocage
 Licenses       : BSD2CLAUSE
 WWW            : https://github.com/iocage/iocage
 --
 Name           : py39-josepy
+Origin         : security/py-josepy
 Licenses       : APACHE20
 WWW            : https://josepy.readthedocs.io/en/latest/
 --
 Name           : py39-jsonschema
+Origin         : devel/py-jsonschema
 Licenses       : MIT
 WWW            : https://github.com/Julian/jsonschema
 --
 Name           : py39-libzfs
+Origin         : devel/py-libzfs
 Licenses       : BSD2CLAUSE
 WWW            : https://github.com/freenas/py-libzfs
 --
 Name           : py39-markdown
+Origin         : textproc/py-markdown
 Licenses       : BSD3CLAUSE
 WWW            : https://github.com/Python-Markdown/markdown
 --
 Name           : py39-markupsafe
+Origin         : textproc/py-markupsafe
 Licenses       : BSD3CLAUSE
 WWW            : https://github.com/pallets/markupsafe
 --
 Name           : py39-netifaces
+Origin         : net/py-netifaces
 Licenses       : MIT
 WWW            : https://pypi.org/project/netifaces/
 --
 Name           : py39-numpy
+Origin         : math/py-numpy
 Licenses       : BSD3CLAUSE
 WWW            : https://www.numpy.org/
 --
 Name           : py39-openssl
+Origin         : security/py-openssl
 Licenses       : APACHE20
 WWW            : https://github.com/pyca/pyopenssl
 --
 Name           : py39-packaging
+Origin         : devel/py-packaging
 Licenses       : BSD2CLAUSE or APACHE20
 WWW            : https://github.com/pypa/packaging
 --
 Name           : py39-parsedatetime
+Origin         : devel/py-parsedatetime
 Licenses       : APACHE20
 WWW            : https://github.com/bear/parsedatetime
 --
 Name           : py39-pycparser
+Origin         : devel/py-pycparser
 Licenses       : BSD3CLAUSE
 WWW            : https://github.com/eliben/pycparser
 --
 Name           : py39-pyparsing
+Origin         : devel/py-pyparsing
 Licenses       : MIT
 WWW            : https://github.com/pyparsing/pyparsing
 --
 Name           : py39-pyrfc3339
+Origin         : devel/py-pyrfc3339
 Licenses       : MIT
 WWW            : https://pypi.org/project/pyRFC3339/
 --
 Name           : py39-pyrsistent
+Origin         : devel/py-pyrsistent
 Licenses       : MIT
 WWW            : https://github.com/tobgu/pyrsistent
 --
 Name           : py39-pysocks
+Origin         : net/py-pysocks
 Licenses       : BSD3CLAUSE
 WWW            : https://github.com/Anorov/PySocks
 --
 Name           : py39-pytz
+Origin         : devel/py-pytz
 Licenses       : MIT
 WWW            : https://pythonhosted.org/pytz/
 --
 Name           : py39-requests
+Origin         : www/py-requests
 Licenses       : APACHE20
 WWW            : https://docs.python-requests.org/en/latest/
 --
 Name           : py39-resolvelib
+Origin         : devel/py-resolvelib
 Licenses       : ISCL
 WWW            : https://github.com/sarugaku/resolvelib
 --
 Name           : py39-setuptools
+Origin         : devel/py-setuptools
 Licenses       : MIT
 WWW            : https://pypi.org/project/setuptools/
 --
 Name           : py39-six
+Origin         : devel/py-six
 Licenses       : MIT
 WWW            : https://github.com/benjaminp/six
 --
 Name           : py39-smmap
+Origin         : devel/py-smmap
 Licenses       : BSD3CLAUSE
 WWW            : https://github.com/gitpython-developers/smmap
 --
 Name           : py39-texttable
+Origin         : textproc/py-texttable
 Licenses       : MIT
 WWW            : https://pypi.org/project/texttable/
 --
 Name           : py39-tqdm
+Origin         : misc/py-tqdm
 Licenses       : MPL20 and MIT
 WWW            : https://github.com/tqdm/tqdm
 --
 Name           : py39-typing-extensions
+Origin         : devel/py-typing-extensions
 Licenses       : PSFL
 WWW            : https://github.com/python/typing_extensions
 --
 Name           : py39-urllib3
+Origin         : net/py-urllib3
 Licenses       : MIT
 WWW            : https://pypi.org/project/urllib3/
 --
 Name           : py39-websockify
+Origin         : devel/py-websockify
 Licenses       : LGPL3
 WWW            : https://github.com/novnc/websockify
 --
 Name           : py39-yaml
+Origin         : devel/py-yaml
 Licenses       : MIT
 WWW            : https://pyyaml.org/
 --
 Name           : py39-zipp
+Origin         : devel/py-zipp
 Licenses       : MIT
 WWW            : https://github.com/jaraco/zipp
 --
 Name           : python
+Origin         : lang/python
 Licenses       : 
 WWW            : https://www.python.org/
 --
 Name           : python2
+Origin         : lang/python2
 Licenses       : 
 WWW            : https://www.python.org/
 --
 Name           : python27
+Origin         : lang/python27
 Licenses       : PSFL
 WWW            : https://www.python.org/
 --
 Name           : python3
+Origin         : lang/python3
 Licenses       : 
 WWW            : https://www.python.org/
 --
 Name           : python39
+Origin         : lang/python39
 Licenses       : PSFL
 WWW            : https://www.python.org/
 --
 Name           : qemu-devel
+Origin         : emulators/qemu-devel
 Licenses       : GPLv2
 WWW            : https://www.qemu.org/
 --
 Name           : rcs57
+Origin         : devel/rcs57
 Licenses       : GPLv2
 WWW            : https://www.gnu.org/software/rcs/
 --
 Name           : re2
+Origin         : devel/re2
 Licenses       : BSD3CLAUSE
 WWW            : https://github.com/google/re2
 --
 Name           : readline
+Origin         : devel/readline
 Licenses       : GPLv3
 WWW            : https://tiswww.case.edu/php/chet/readline/rltop.html
 --
 Name           : redis
+Origin         : databases/redis
 Licenses       : BSD3CLAUSE
 WWW            : https://redis.io/
 --
 Name           : rhash
+Origin         : security/rhash
 Licenses       : BSD0CLAUSE
 WWW            : http://rhash.sourceforge.net/
 --
 Name           : rrdtool
+Origin         : databases/rrdtool
 Licenses       : GPLv2
 WWW            : https://oss.oetiker.ch/rrdtool/
 --
 Name           : rsync
+Origin         : net/rsync
 Licenses       : GPLv3+
 WWW            : https://rsync.samba.org/
 --
 Name           : rsyslog
+Origin         : sysutils/rsyslog8
 Licenses       : LGPL3 and GPLv3 and APACHE20
 WWW            : https://www.rsyslog.com/
 --
 Name           : ruby
+Origin         : lang/ruby30
 Licenses       : RUBY or BSD2CLAUSE
 WWW            : https://www.ruby-lang.org/en/
 --
 Name           : ruby30-gems
+Origin         : devel/ruby-gems
 Licenses       : RUBY or MIT
 WWW            : https://rubygems.org/
 --
 Name           : rubygem-bundler
+Origin         : sysutils/rubygem-bundler
 Licenses       : MIT
 WWW            : https://bundler.io/
 --
 Name           : rubygem-daemons
+Origin         : devel/rubygem-daemons
 Licenses       : MIT
 WWW            : https://github.com/thuehlinger/daemons
 --
 Name           : rubygem-rake
+Origin         : devel/rubygem-rake
 Licenses       : MIT
 WWW            : https://github.com/ruby/rake
 --
+Name           : rxg
+Origin         : rgnets/rxg
+Licenses       : 
+WWW            : https://rgnets.com
+--
 Name           : samba413
+Origin         : net/samba413
 Licenses       : GPLv3+
 WWW            : https://www.samba.org/
 --
 Name           : schilybase
+Origin         : devel/schilybase
 Licenses       : LGPL21 and GPLv2 and CDDL and BSD2CLAUSE
 WWW            : https://codeberg.org/schilytools/schilytools
 --
 Name           : selenium
+Origin         : www/selenium
 Licenses       : APACHE20
 WWW            : https://www.seleniumhq.org
 --
 Name           : sendmail
+Origin         : mail/sendmail
 Licenses       : Sendmail
 WWW            : https://www.sendmail.org/
 --
 Name           : shared-mime-info
+Origin         : misc/shared-mime-info
 Licenses       : GPLv2
 WWW            : https://www.freedesktop.org/wiki/Software/shared-mime-info/
 --
 Name           : signify
+Origin         : security/signify
 Licenses       : ISCL and BSD4CLAUSE and BSD3CLAUSE
 WWW            : https://github.com/leahneukirchen/outils/
 --
 Name           : siproxd
+Origin         : net/siproxd
 Licenses       : GPLv2
 WWW            : http://siproxd.sourceforge.net/
 --
 Name           : smartmontools
+Origin         : sysutils/smartmontools
 Licenses       : GPLv2+
 WWW            : https://www.smartmontools.org
 --
 Name           : snort
+Origin         : security/snort-patched
 Licenses       : GPLv2
 WWW            : https://www.snort.org/
 --
 Name           : source-highlight
+Origin         : textproc/source-highlight
 Licenses       : GPLv3
 WWW            : https://www.gnu.org/software/src-highlite/source-highlight.html
 --
 Name           : speedtest
+Origin         : rgnets/speedtest
 Licenses       : MIT
 WWW            : https://www.rgnets.com/
 --
 Name           : speex
+Origin         : audio/speex
 Licenses       : BSD3CLAUSE
 WWW            : https://www.speex.org/
 --
 Name           : speexdsp
+Origin         : audio/speexdsp
 Licenses       : BSD3CLAUSE
 WWW            : https://www.speex.org/
 --
 Name           : sqlite3
+Origin         : databases/sqlite3
 Licenses       : PD
 WWW            : https://www.sqlite.org/
 --
 Name           : squid
+Origin         : www/squid
 Licenses       : GPLv2
 WWW            : http://www.squid-cache.org/
 --
 Name           : stress
+Origin         : sysutils/stress
 Licenses       : GPLv3
 WWW            : UNKNOWN
+--
 Name           : stress-ng
+Origin         : benchmarks/stress-ng
 Licenses       : GPLv2+
 WWW            : http://kernel.ubuntu.com/~cking/stress-ng/
 --
 Name           : strongswan
+Origin         : security/strongswan
 Licenses       : GPLv2
 WWW            : https://www.strongswan.org
 --
 Name           : subversion
+Origin         : devel/subversion
 Licenses       : APACHE20
 WWW            : https://subversion.apache.org/
 --
 Name           : suitesparse-amd
+Origin         : math/suitesparse-amd
 Licenses       : BSD3CLAUSE
 WWW            : https://faculty.cse.tamu.edu/davis/suitesparse.html
 --
 Name           : suitesparse-camd
+Origin         : math/suitesparse-camd
 Licenses       : BSD3CLAUSE
 WWW            : https://faculty.cse.tamu.edu/davis/suitesparse.html
 --
 Name           : suitesparse-ccolamd
+Origin         : math/suitesparse-ccolamd
 Licenses       : BSD3CLAUSE
 WWW            : https://faculty.cse.tamu.edu/davis/suitesparse.html
 --
 Name           : suitesparse-cholmod
+Origin         : math/suitesparse-cholmod
 Licenses       : LGPL21+
 WWW            : https://faculty.cse.tamu.edu/davis/suitesparse.html
 --
 Name           : suitesparse-colamd
+Origin         : math/suitesparse-colamd
 Licenses       : BSD3CLAUSE
 WWW            : https://faculty.cse.tamu.edu/davis/suitesparse.html
 --
 Name           : suitesparse-config
+Origin         : math/suitesparse-config
 Licenses       : GPLv2+
 WWW            : https://faculty.cse.tamu.edu/davis/suitesparse.html
 --
 Name           : suitesparse-umfpack
+Origin         : math/suitesparse-umfpack
 Licenses       : GPLv2+
 WWW            : https://faculty.cse.tamu.edu/davis/suitesparse.html
 --
 Name           : svt-av1
+Origin         : multimedia/svt-av1
 Licenses       : MIT and BSD3CLAUSE and BSD2CLAUSE
 WWW            : https://01.org/svt
 --
 Name           : talloc
+Origin         : devel/talloc
 Licenses       : LGPL3
 WWW            : https://talloc.samba.org/
 --
 Name           : tcl86
+Origin         : lang/tcl86
 Licenses       : TclTk
 WWW            : https://www.tcl.tk/
 --
 Name           : tcl87
+Origin         : lang/tcl87
 Licenses       : TclTk
 WWW            : https://www.tcl.tk/
 --
 Name           : tcpreplay
+Origin         : net-mgmt/tcpreplay
 Licenses       : GPLv3
 WWW            : https://github.com/appneta/tcpreplay
 --
 Name           : tdb
+Origin         : databases/tdb
 Licenses       : GPLv3
 WWW            : https://tdb.samba.org/
 --
 Name           : telegraf
+Origin         : net-mgmt/telegraf
 Licenses       : MIT
 WWW            : https://influxdata.com/time-series-platform/telegraf/
 --
 Name           : tevent
+Origin         : devel/tevent
 Licenses       : LGPL3
 WWW            : https://tevent.samba.org/
 --
 Name           : tiff
+Origin         : graphics/tiff
 Licenses       : BSD3CLAUSE
 WWW            : http://www.simplesystems.org/libtiff/
 --
 Name           : timescaledb
+Origin         : databases/timescaledb
 Licenses       : TSL and APACHE20
 WWW            : https://www.timescale.com/
 --
 Name           : uchardet
+Origin         : textproc/uchardet
 Licenses       : MPL11 or LGPL21+ or GPLv2+
 WWW            : https://www.freedesktop.org/wiki/Software/uchardet/
 --
 Name           : uefi-edk2-bhyve-csm
+Origin         : sysutils/uefi-edk2-bhyve-csm
 Licenses       : BSD2CLAUSE
 WWW            : https://github.com/freebsd/uefi-edk2/tree/bhyve/UDK2014.SP1
 --
 Name           : ufdbGuard
+Origin         : www/ufdbguard
 Licenses       : GPLv2
 WWW            : https://www.urlfilterdb.com/
 --
 Name           : unbound
+Origin         : dns/unbound
 Licenses       : BSD3CLAUSE
 WWW            : https://www.nlnetlabs.nl/projects/unbound
 --
 Name           : unix2dos
+Origin         : converters/unix2dos
 Licenses       : 
 WWW            : UNKNOWN
 --
 Name           : unixODBC
+Origin         : databases/unixODBC
 Licenses       : LGPL21 and GPLv2
 WWW            : http://www.unixodbc.org/
 --
 Name           : utf8proc
+Origin         : textproc/utf8proc
 Licenses       : MIT
 WWW            : https://juliastrings.github.io/utf8proc/
 --
 Name           : vde2
+Origin         : net/vde2
 Licenses       : LGPL21 and GPLv2 and BSD3CLAUSE
 WWW            : https://github.com/virtualsquare/vde-2
 --
 Name           : vim
+Origin         : editors/vim
 Licenses       : VIM
 WWW            : https://www.vim.org/
 --
 Name           : vm-bhyve
+Origin         : sysutils/vm-bhyve
 Licenses       : BSD2CLAUSE
 WWW            : https://github.com/churchers/vm-bhyve
 --
 Name           : vmaf
+Origin         : multimedia/vmaf
 Licenses       : BSD2CLAUSE+PATENT
 WWW            : https://github.com/Netflix/vmaf
 --
 Name           : vorbis-tools
+Origin         : audio/vorbis-tools
 Licenses       : GPLv2
 WWW            : https://xiph.org/vorbis/
 --
 Name           : webfonts
+Origin         : x11-fonts/webfonts
 Licenses       : EULA
 WWW            : UNKNOWN
 --
 Name           : webp
+Origin         : graphics/webp
 Licenses       : BSD3CLAUSE
 WWW            : https://developers.google.com/speed/webp/
 --
 Name           : wget
+Origin         : ftp/wget
 Licenses       : GPLv3+
 WWW            : https://www.gnu.org/s/wget/
 --
 Name           : wkhtmltopdf
+Origin         : converters/wkhtmltopdf
 Licenses       : LGPL3
 WWW            : https://github.com/wkhtmltopdf/wkhtmltopdf
 --
 Name           : x265
+Origin         : multimedia/x265
 Licenses       : GPLv2+
 WWW            : https://www.x265.org/
 --
 Name           : x86info
+Origin         : sysutils/x86info
 Licenses       : GPLv2
 WWW            : https://github.com/kernelslacker/x86info
 --
 Name           : xkeyboard-config
+Origin         : x11/xkeyboard-config
 Licenses       : MIT
 WWW            : https://freedesktop.org/wiki/Software/XKeyboardConfig/
 --
 Name           : xorg-fonts-truetype
+Origin         : x11-fonts/xorg-fonts-truetype
 Licenses       : NA
 WWW            : https://www.x.org/
 --
 Name           : xorgproto
+Origin         : x11/xorgproto
 Licenses       : MIT
 WWW            : https://gitlab.freedesktop.org/xorg/proto/xorgproto
 --
 Name           : xxhash
+Origin         : devel/xxhash
 Licenses       : BSD2CLAUSE
 WWW            : https://cyan4973.github.io/xxHash/
 --
 Name           : yarn-node16
+Origin         : www/yarn-node16
 Licenses       : BSD2CLAUSE
 WWW            : https://classic.yarnpkg.com/
 --
 Name           : zfs-stats
+Origin         : sysutils/zfs-stats
 Licenses       : BSD2CLAUSE
 WWW            : https://www.vx.sk/zfs-stats/
 --
 Name           : zstd
+Origin         : archivers/zstd
 Licenses       : GPLv2 or BSD3CLAUSE
 WWW            : https://facebook.github.io/zstd/
