@@ -1,3 +1,5 @@
+# Patch Snort to add support for the FreeBSD 13.1+ pflog header format. Patch has been submitted upstream but not yet accepted.
+
 --- src/decode.h.orig	2022-05-18 00:45:01
 +++ src/decode.h	2023-02-24 11:46:59
 @@ -835,12 +835,13 @@
