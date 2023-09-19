@@ -1,5 +1,5 @@
 # RG Nets LICENSE Information
-This repository ontains information pertaining the the rXg license and related open source software licenses
+This repository contains information pertaining the the rXg license and related open source software licenses
 
 
 # rXg Software License
@@ -18,7 +18,7 @@ COPYRIGHT AND LICENSE for rXg Software
 
 # Redistributed Open-Source Software Licenses
 The rXg utilizes a collection of freely available open-source software that are made available via the
-FreeBSD ports repository.  The list of included packages is maintained in the file [open-source-licenses](open-source-licenses)
+FreeBSD ports repository.  The list of included packages is maintained in the file [FreeBSD-Packages](FreeBSD-Packages)
 
 The list of Node.js packages used is maintained in the file [Node-Packages](Node-Packages)
 
@@ -33,5 +33,5 @@ packages are built from source.  These modifications are provided in the [patche
 Note that the rXg codebase is entirely interpreted, and is not statically or dynamically _linked_
 against any other Open-Source software.
 
-Other packages in the list of [open-source-licenses](open-source-licenses) which do not have a corresponding
+Other packages in the list of [FreeBSD-Packages](FreeBSD-Packages) which do not have a corresponding
 patch directory are redistributed without modification by RG Nets.
